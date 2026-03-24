@@ -12,6 +12,7 @@ public class Main {
 
     /**
      * Punto de entrada principal de la aplicación.
+     *
      * @param args Argumentos de la línea de comandos.
      */
     public static void main(String[] args) {
